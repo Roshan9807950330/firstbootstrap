@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../FORTAN"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "HTML"
+	}
+}
